@@ -30,6 +30,8 @@ To test your app on the computer, run
 python main.py
 ```
 
+For deployment on mobile devices check [Buildozer doc](https://buildozer.readthedocs.io/en/latest/quickstart.html#run-my-application) (it's readable, promise).
+
 ## Usage notes
 
 - I couldn't make it work with main.kv file so far, so interface markup is within the code.
@@ -37,6 +39,4 @@ python main.py
 ## Feedback
 - Any notes are [welcome here](https://t.me/walsk)
 
-
-For deployment on mobile devices check [Buildozer doc](https://buildozer.readthedocs.io/en/latest/quickstart.html#run-my-application) (it's readable, promise).
 
